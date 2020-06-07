@@ -1,0 +1,10 @@
+::-webkit-scrollbar{
+    width: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background: #d6d5d5b1;
+    border-radius: 10px;
+    margin-left: 5px;
+  }
+  /* Scroll bar for group manage page > manage members and admin */

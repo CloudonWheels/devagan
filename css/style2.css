@@ -1,13 +1,3 @@
-::-webkit-scrollbar{
-  width: 6px;
-}
-
-::-webkit-scrollbar-thumb{
-  background: #d6d5d5b1;
-  border-radius: 10px;
-  margin-left: 5px;
-}
-
 .edit-cover:link {
   position: relative;
   background-color: #8923d6;
